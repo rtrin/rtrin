@@ -1,5 +1,5 @@
 ## Hi, I'm Richard 👋
 
 - 📚 Computer Science Student @ Colby College
-- ⌚️ Software Engineer Intern @ HashiCorp
+- 🛠️ Prev. Software Engineer Intern @ HashiCorp ☁️, Garmin ⌚️
 - 👨‍💻 Currently Building...
